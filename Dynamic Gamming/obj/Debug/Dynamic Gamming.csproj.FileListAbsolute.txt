@@ -1,0 +1,69 @@
+C:\Users\Azfar\source\repos\Dynamic Gamming\Dynamic Gamming\obj\Debug\Dynamic Gamming.csprojAssemblyReference.cache
+C:\Users\Azfar\source\repos\Dynamic Gamming\Dynamic Gamming\obj\Debug\Dynamic_Gamming.Properties.Resources.resources
+C:\Users\Azfar\source\repos\Dynamic Gamming\Dynamic Gamming\obj\Debug\Dynamic Gamming.csproj.GenerateResource.cache
+C:\Users\Azfar\source\repos\Dynamic Gamming\Dynamic Gamming\obj\Debug\Dynamic Gamming.csproj.CoreCompileInputs.cache
+C:\Users\Azfar\source\repos\Dynamic Gamming\Dynamic Gamming\bin\Debug\Dynamic Gamming.exe.config
+C:\Users\Azfar\source\repos\Dynamic Gamming\Dynamic Gamming\bin\Debug\Dynamic Gamming.exe
+C:\Users\Azfar\source\repos\Dynamic Gamming\Dynamic Gamming\bin\Debug\Dynamic Gamming.pdb
+C:\Users\Azfar\source\repos\Dynamic Gamming\Dynamic Gamming\obj\Debug\Dynamic Gamming.exe
+C:\Users\Azfar\source\repos\Dynamic Gamming\Dynamic Gamming\obj\Debug\Dynamic Gamming.pdb
+C:\Users\Azfar\source\repos\Dynamic Gamming\Dynamic Gamming\obj\Debug\Dynamic_Gamming.Form1.resources
+C:\Users\Asfar\Desktop\Dynamic-gamming\Dynamic Gamming\Dynamic Gamming\bin\Debug\Dynamic Gamming.exe.config
+C:\Users\Asfar\Desktop\Dynamic-gamming\Dynamic Gamming\Dynamic Gamming\bin\Debug\Dynamic Gamming.exe
+C:\Users\Asfar\Desktop\Dynamic-gamming\Dynamic Gamming\Dynamic Gamming\bin\Debug\Dynamic Gamming.pdb
+C:\Users\Asfar\Desktop\Dynamic-gamming\Dynamic Gamming\Dynamic Gamming\obj\Debug\Dynamic_Gamming.Form1.resources
+C:\Users\Asfar\Desktop\Dynamic-gamming\Dynamic Gamming\Dynamic Gamming\obj\Debug\Dynamic_Gamming.Properties.Resources.resources
+C:\Users\Asfar\Desktop\Dynamic-gamming\Dynamic Gamming\Dynamic Gamming\obj\Debug\Dynamic Gamming.csproj.GenerateResource.cache
+C:\Users\Asfar\Desktop\Dynamic-gamming\Dynamic Gamming\Dynamic Gamming\obj\Debug\Dynamic Gamming.csproj.CoreCompileInputs.cache
+C:\Users\Asfar\Desktop\Dynamic-gamming\Dynamic Gamming\Dynamic Gamming\obj\Debug\Dynamic Gamming.exe
+C:\Users\Asfar\Desktop\Dynamic-gamming\Dynamic Gamming\Dynamic Gamming\obj\Debug\Dynamic Gamming.pdb
+C:\Users\Asfar\Desktop\Dynamic-gamming\Dynamic Gamming\Dynamic Gamming\obj\Debug\Dynamic_Gamming.Customize.resources
+C:\Users\Asfar\Desktop\Dynamic-gamming\Dynamic Gamming\Dynamic Gamming\obj\Debug\Dynamic Gamming.csprojAssemblyReference.cache
+C:\Users\Asfar\Desktop\OOP-project\Dynamic Gamming\Dynamic Gamming\bin\Debug\Dynamic Gamming.exe.config
+C:\Users\Asfar\Desktop\OOP-project\Dynamic Gamming\Dynamic Gamming\bin\Debug\Dynamic Gamming.exe
+C:\Users\Asfar\Desktop\OOP-project\Dynamic Gamming\Dynamic Gamming\bin\Debug\Dynamic Gamming.pdb
+C:\Users\Asfar\Desktop\OOP-project\Dynamic Gamming\Dynamic Gamming\obj\Debug\Dynamic Gamming.csprojAssemblyReference.cache
+C:\Users\Asfar\Desktop\OOP-project\Dynamic Gamming\Dynamic Gamming\obj\Debug\Dynamic_Gamming.Form1.resources
+C:\Users\Asfar\Desktop\OOP-project\Dynamic Gamming\Dynamic Gamming\obj\Debug\Dynamic_Gamming.Properties.Resources.resources
+C:\Users\Asfar\Desktop\OOP-project\Dynamic Gamming\Dynamic Gamming\obj\Debug\Dynamic Gamming.csproj.GenerateResource.cache
+C:\Users\Asfar\Desktop\OOP-project\Dynamic Gamming\Dynamic Gamming\obj\Debug\Dynamic Gamming.csproj.CoreCompileInputs.cache
+C:\Users\Asfar\Desktop\OOP-project\Dynamic Gamming\Dynamic Gamming\obj\Debug\Dynamic Gamming.exe
+C:\Users\Asfar\Desktop\OOP-project\Dynamic Gamming\Dynamic Gamming\obj\Debug\Dynamic Gamming.pdb
+C:\Users\Asfar\Desktop\OOP-project\Dynamic Gamming\Dynamic Gamming\obj\Debug\Dynamic_Gamming.SlotDisplayUI.resources
+C:\Users\Asfar\Desktop\OOP-project\Dynamic Gamming\Dynamic Gamming\obj\Debug\Dynamic_Gamming.AdminUI.resources
+C:\Users\Asfar\Desktop\OOP-project\Dynamic Gamming\Dynamic Gamming\obj\Debug\Dynamic_Gamming.SlotUI.resources
+C:\Users\Asfar\Desktop\OOP-project\Dynamic Gamming\Dynamic Gamming\obj\Debug\Dynamic_Gamming.CustomerUI.resources
+C:\Users\Asfar\Desktop\OOP-project\Dynamic Gamming\Dynamic Gamming\obj\Debug\Dynamic_Gamming.GamesUI.resources
+C:\Users\Asfar\Desktop\OOP-project\Dynamic Gamming\Dynamic Gamming\obj\Debug\Dynamic_Gamming.AboutUI.resources
+D:\Work\OOP-project\OOP-project\Dynamic Gamming\Dynamic Gamming\obj\Debug\Dynamic Gamming.csprojAssemblyReference.cache
+D:\Work\OOP-project\OOP-project\Dynamic Gamming\Dynamic Gamming\obj\Debug\Dynamic_Gamming.AboutUI.resources
+D:\Work\OOP-project\OOP-project\Dynamic Gamming\Dynamic Gamming\obj\Debug\Dynamic_Gamming.AdminUI.resources
+D:\Work\OOP-project\OOP-project\Dynamic Gamming\Dynamic Gamming\obj\Debug\Dynamic_Gamming.CustomerUI.resources
+D:\Work\OOP-project\OOP-project\Dynamic Gamming\Dynamic Gamming\obj\Debug\Dynamic_Gamming.Form1.resources
+D:\Work\OOP-project\OOP-project\Dynamic Gamming\Dynamic Gamming\obj\Debug\Dynamic_Gamming.GamesUI.resources
+D:\Work\OOP-project\OOP-project\Dynamic Gamming\Dynamic Gamming\obj\Debug\Dynamic_Gamming.Properties.Resources.resources
+D:\Work\OOP-project\OOP-project\Dynamic Gamming\Dynamic Gamming\obj\Debug\Dynamic_Gamming.SlotDisplayUI.resources
+D:\Work\OOP-project\OOP-project\Dynamic Gamming\Dynamic Gamming\obj\Debug\Dynamic_Gamming.SlotUI.resources
+D:\Work\OOP-project\OOP-project\Dynamic Gamming\Dynamic Gamming\obj\Debug\Dynamic Gamming.csproj.GenerateResource.cache
+D:\Work\OOP-project\OOP-project\Dynamic Gamming\Dynamic Gamming\obj\Debug\Dynamic Gamming.csproj.CoreCompileInputs.cache
+D:\Work\OOP-project\OOP-project\Dynamic Gamming\Dynamic Gamming\bin\Debug\Dynamic Gaming.exe.config
+D:\Work\OOP-project\OOP-project\Dynamic Gamming\Dynamic Gamming\bin\Debug\Dynamic Gaming.exe
+D:\Work\OOP-project\OOP-project\Dynamic Gamming\Dynamic Gamming\bin\Debug\Dynamic Gaming.pdb
+D:\Work\OOP-project\OOP-project\Dynamic Gamming\Dynamic Gamming\obj\Debug\Dynamic Gaming.exe
+D:\Work\OOP-project\OOP-project\Dynamic Gamming\Dynamic Gamming\obj\Debug\Dynamic Gaming.pdb
+D:\Work\OOP Project\Dynamic Gamming\bin\Debug\Dynamic Gaming.exe.config
+D:\Work\OOP Project\Dynamic Gamming\bin\Debug\Dynamic Gaming.exe
+D:\Work\OOP Project\Dynamic Gamming\bin\Debug\Dynamic Gaming.pdb
+D:\Work\OOP Project\Dynamic Gamming\obj\Debug\Dynamic Gamming.csprojAssemblyReference.cache
+D:\Work\OOP Project\Dynamic Gamming\obj\Debug\Dynamic_Gamming.AboutUI.resources
+D:\Work\OOP Project\Dynamic Gamming\obj\Debug\Dynamic_Gamming.AdminUI.resources
+D:\Work\OOP Project\Dynamic Gamming\obj\Debug\Dynamic_Gamming.CustomerUI.resources
+D:\Work\OOP Project\Dynamic Gamming\obj\Debug\Dynamic_Gamming.Form1.resources
+D:\Work\OOP Project\Dynamic Gamming\obj\Debug\Dynamic_Gamming.GamesUI.resources
+D:\Work\OOP Project\Dynamic Gamming\obj\Debug\Dynamic_Gamming.Properties.Resources.resources
+D:\Work\OOP Project\Dynamic Gamming\obj\Debug\Dynamic_Gamming.SlotDisplayUI.resources
+D:\Work\OOP Project\Dynamic Gamming\obj\Debug\Dynamic_Gamming.SlotUI.resources
+D:\Work\OOP Project\Dynamic Gamming\obj\Debug\Dynamic Gamming.csproj.GenerateResource.cache
+D:\Work\OOP Project\Dynamic Gamming\obj\Debug\Dynamic Gamming.csproj.CoreCompileInputs.cache
+D:\Work\OOP Project\Dynamic Gamming\obj\Debug\Dynamic Gaming.exe
+D:\Work\OOP Project\Dynamic Gamming\obj\Debug\Dynamic Gaming.pdb

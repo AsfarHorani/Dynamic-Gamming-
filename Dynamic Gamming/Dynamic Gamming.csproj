@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D98A1C82-C74B-4699-83F5-390BC6F098FC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Dynamic_Gamming</RootNamespace>
+    <AssemblyName>Dynamic Gaming</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>Dynamic_Gamming.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\Data.cs" />
+    <Compile Include="Forms\AboutUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AboutUI.Designer.cs">
+      <DependentUpon>AboutUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\Admin.cs" />
+    <Compile Include="Forms\Customize Forms\AdminUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Customize Forms\AdminUI.Designer.cs">
+      <DependentUpon>AdminUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\Controller.cs" />
+    <Compile Include="Classes\Customer.cs" />
+    <Compile Include="Forms\Customize Forms\CustomerUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Customize Forms\CustomerUI.Designer.cs">
+      <DependentUpon>CustomerUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\DBAccess.cs" />
+    <Compile Include="Forms\MainUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MainUI.Designer.cs">
+      <DependentUpon>MainUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\Game.cs" />
+    <Compile Include="Forms\Customize Forms\GamesUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Customize Forms\GamesUI.Designer.cs">
+      <DependentUpon>GamesUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Classes\Slot.cs" />
+    <Compile Include="Forms\SlotDisplayUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SlotDisplayUI.Designer.cs">
+      <DependentUpon>SlotDisplayUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Customize Forms\SlotUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Customize Forms\SlotUI.Designer.cs">
+      <DependentUpon>SlotUI.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Forms\AboutUI.resx">
+      <DependentUpon>AboutUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Customize Forms\AdminUI.resx">
+      <DependentUpon>AdminUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Customize Forms\CustomerUI.resx">
+      <DependentUpon>CustomerUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MainUI.resx">
+      <DependentUpon>MainUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Customize Forms\GamesUI.resx">
+      <DependentUpon>GamesUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Forms\SlotDisplayUI.resx">
+      <DependentUpon>SlotDisplayUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Customize Forms\SlotUI.resx">
+      <DependentUpon>SlotUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\DataSources\Game.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-about-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\340.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\240_F_356964824_3dNx0OlvCo1CYPqlnHu3W29XHFbG2LCv.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\240_F_356964824_3dNx0OlvCo1CYPqlnHu3W29XHFbG2LCv1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\11.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\21.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\31.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\41.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="icon.ico" />
+    <None Include="Resources\images %2822%29.jpeg" />
+    <None Include="Resources\images %2823%29.jpeg" />
+    <None Include="Resources\images %2821%29.jpeg" />
+    <None Include="Resources\images %2820%29.jpeg" />
+    <None Include="Resources\images %2819%29.jpeg" />
+    <None Include="Resources\images %2815%291.jpeg" />
+    <None Include="Resources\images %2818%29.jpeg" />
+    <None Include="Resources\images %2817%29.jpeg" />
+    <None Include="Resources\images %2816%291.jpeg" />
+    <None Include="Resources\images %2816%29.jpeg" />
+    <None Include="Resources\images %2815%29.jpeg" />
+    <None Include="Resources\Logo1.png" />
+    <None Include="Resources\home.jpg" />
+    <None Include="Resources\350-3502994_setting-up-the-assessor-setting-icon-administrator-icon-png.png" />
+    <None Include="Resources\admin.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
